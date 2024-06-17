@@ -1,0 +1,8 @@
+transformers
+datasets
+sentencepiece
+gradio
+PyMuPDF
+torch
+numpy
+pandas
